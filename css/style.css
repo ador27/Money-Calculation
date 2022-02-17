@@ -1,0 +1,15 @@
+/* heading css */
+.header{
+    text-align: center;
+    margin-top: 20px;
+    color: blueviolet;
+}
+
+/* main part */
+.container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.image{
+    width: 50%;
+}
