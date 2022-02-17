@@ -3,8 +3,6 @@ document.getElementById('calculate').addEventListener('click', function () {
     const myincomeInput = document.getElementById('input-income');
     const incomeAmount = myincomeInput.value;
 
-
-
     //food
     const foodcostInput = document.getElementById('food-income');
     const foodAmount = foodcostInput.value;
@@ -12,7 +10,6 @@ document.getElementById('calculate').addEventListener('click', function () {
     //rentcost
     const myrentInput = document.getElementById('rent-income');
     const rentAmount = myrentInput.value;
-
 
     //clothcost
     const clothInput = document.getElementById('clothes-income');
